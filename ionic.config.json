@@ -1,0 +1,7 @@
+{
+  "name": "appointment-planner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
