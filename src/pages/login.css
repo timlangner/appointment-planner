@@ -1,3 +1,15 @@
 .login-wrapper {
   text-align: center;
+  margin-top: 40%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.login-inputs {
+  width: 95%;
+}
+
+.submit-button {
+  margin-top: 20px;
 }
